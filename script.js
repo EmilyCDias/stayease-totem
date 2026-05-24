@@ -172,9 +172,3 @@ cpfInput.addEventListener('input', () => {
 
   cpfInput.value = value;
 });
-
-// Ajuste final, tradução:
-document.querySelector(".security").innerText =
-  lang === "pt"
-    ? "Ambiente seguro • Dados protegidos"
-    : "Secure environment • Protected data";
