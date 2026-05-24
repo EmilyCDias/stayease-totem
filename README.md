@@ -25,7 +25,7 @@ JSON (dados simulados)
 Vercel (deploy)
 Acesso
 
-https://stayease-totem-7flp7gcaz-emilys-projects-d45b92be.vercel.app/
+https://stayease-totem.vercel.app/
 
 ## Dados de teste
 
