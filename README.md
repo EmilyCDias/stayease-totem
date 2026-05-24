@@ -2,73 +2,32 @@
 
 ## Sobre o Projeto
 
-O StayEase é um MVP de autoatendimento hoteleiro desenvolvido para o Challenge FIAP.
-
-A solução permite que hóspedes realizem:
-- Check-in digital
-- Validação de identidade
-- Emissão de chave digital
-- Check-out automatizado
-
-Tudo através de um totem digital.
-
----
-
-## Tecnologias utilizadas
-
-- HTML
-- CSS
-- JavaScript
-- JSON Mockado
-- Deploy em cloud com Vercel
-
+MVP de autoatendimento hoteleiro desenvolvido para o Challenge FIAP. Simula um totem digital para check-in e check-out de hóspedes.
 ---
 
 ## Funcionalidades
 
-- Check-in digital
-- Busca de reservas
-- Validação facial simulada
-- Emissão de chave digital (QR Code)
-- Check-out
-- Avaliação da estadia
-- Timeout automático de sessão
-- Máscara de CPF
+Check-in com CPF e código de reserva
+Validação de reserva
+Validação facial simulada
+Emissão de chave digital (QR Code)
+Check-out com avaliação
+Seleção de idioma
+Solicitação de transporte para aeroporto
 
 ---
 
-##  Segurança
-
-- Validação de identidade
-- Sessão temporária
-- Dados protegidos
-- Estrutura preparada para futuras melhorias alinhadas à LGPD
-
----
-
-##  Cloud
-
-Sistema hospedado online utilizando Vercel.
-
----
-
-## ▶ Como executar
-
-Recomendado executar via servidor local (Live Server)
-ou acessar a versão online hospedada.
-
----
-
-##  Link do sistema
+## Tecnologias
+HTML
+CSS
+JavaScript
+JSON (dados simulados)
+Vercel (deploy)
+Acesso
 
 https://stayease-totem-7flp7gcaz-emilys-projects-d45b92be.vercel.app/
 
----
+## Dados de teste
 
-##  Dados de teste
-
-CPF:
-12345678900
-
-Reserva:
-HOTEL123
+CPF: 12345678900
+Reserva: HOTEL123
