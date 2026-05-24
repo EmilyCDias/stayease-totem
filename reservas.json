@@ -1,0 +1,14 @@
+[
+  {
+    "cpf": "12345678900",
+    "reserva": "HOTEL123",
+    "nome": "Emily Dias",
+    "quarto": "305"
+  },
+  {
+    "cpf": "98765432100",
+    "reserva": "HOTEL456",
+    "nome": "João Souza",
+    "quarto": "210"
+  }
+]
